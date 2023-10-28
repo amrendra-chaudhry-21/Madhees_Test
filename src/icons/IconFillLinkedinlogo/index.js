@@ -1,0 +1,1 @@
+export { IconFillLinkedinlogo } from "./IconFillLinkedinlogo";

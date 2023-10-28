@@ -1,0 +1,1 @@
+export { IconOutlineInstagramlogo } from "./IconOutlineInstagramlogo";

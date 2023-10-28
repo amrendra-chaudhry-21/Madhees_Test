@@ -1,0 +1,1 @@
+export { IconFillTwitterlogo } from "./IconFillTwitterlogo";
