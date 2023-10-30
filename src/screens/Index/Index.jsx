@@ -80,9 +80,6 @@ export const Index = () => {
         <button className="contact-us-wrapper">
           <div className="contact-us">CONTACT US</div>
         </button>
-        <div className="facebook">FACEBOOK</div>
-        <div className="instagram">INSTAGRAM</div>
-        <div className="linkedin">LINKEDIN</div>
         <img
           className="olvera-logo-black"
           alt="Olvera logo black"
